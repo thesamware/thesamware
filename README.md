@@ -6,4 +6,4 @@ I **design** and **build** crazy stuffs.
 
 If something pops into my head, chances are I'll build it, and ship it.
 
-My tech stack is **Whatever fits best for the project**.
+My tech stack is **whatever fits best for the project**.
