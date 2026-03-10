@@ -4,5 +4,6 @@ I'm **[SamWare](https://www.youtube.com/@thesamware)** a software engineer based
 
 I design and build crazy stuffs.
 
-If something interesting comes to mind, chances are I'll design it, code it, and ship it.
+If something pops into my head, chances are I'll build it, and ship it.
 
+My tech stack is **Whatever fits best for the project**.
