@@ -17,6 +17,6 @@ If you want to check out what I'm building, take a look at my pinned repositorie
 
 ### Fun Facts
 
-- Always exploring new technologies and tools
+- Always exploring new technologies
 - I enjoy building things that solve problems I created myself
 - My side projects have side projects
