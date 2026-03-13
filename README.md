@@ -13,7 +13,7 @@ Althought, I've got a bunch of projects! but my favorite is the **[Project](http
 I'm also a **Linux geek** and enjoy exploring **cybersecurity, hacking, and system level tools**.
 _You don't wanna mess with me!_
 
-If you want to check out what I'm building, take a look at my pinned repositories below.!
+If you want to check out what I'm building, take a look at my pinned repositories below.
 
 ### Fun Facts
 
