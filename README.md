@@ -20,4 +20,3 @@ If you want to check out what I'm building, take a look at my pinned repositorie
 - Always exploring new technologies
 - I enjoy building things that solve problems I created myself
 - My side projects have side projects
-- Searching for new ideas
